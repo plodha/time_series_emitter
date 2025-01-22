@@ -2,6 +2,7 @@
 
 # Clone the projetc
 `git clone https://github.com/plodha/time_series_emitter.git`
+
 `cd time_series_emitter`
 
 # Installation
